@@ -1,0 +1,5 @@
+<!-- layouts/shortcodes/readmore.html -->
+<span class="read-more-link" id="{{ .Get 0 }}">Read more...</span>
+<div class="hidden-text" id="{{ .Get 1 }}" style="display:none;">
+  {{ .Inner | markdownify }}
+</div>

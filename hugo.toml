@@ -1,0 +1,211 @@
+baseURL = 'https://github.com/paulb00th/galapagos/'
+languageCode = 'en-us'
+title = 'Galapagos Dive Academy'
+theme = 'hugo-universal-theme'
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+#  [languages.es]
+#    languageName = "Español"
+#    contentDir = "content/es"
+#    weight = 2
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+summaryLength = 70
+
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = true
+    
+# Logo
+
+[params]
+
+logo = "img/gda-logo.png"
+logo_small = "img/gda-logo.png"
+about_us = "<p>Galapagos Dive Academy<br/>Marchena 201 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora, Ecuador</p>"
+
+formspree_action = "https://formspree.io/f/xknakdek"
+contact_form_ajax = false
+
+enableRecaptchaInContactForm = false
+googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[languages.es.menu.main]]
+    name       = "Inicio"
+    identifier = "menu.home"
+    url        = "/es/" 
+    weight     = 1
+
+[[menu.main]]
+    name       = "Diving"
+    identifier = "menu.our-diving"
+    weight     = 2
+
+[[menu.main]]
+    name       = "Our Diving"
+    weight     = 1
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-diving"
+
+[[menu.main]]
+    name       = "Our main dive sites"
+    weight     = 2
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-main-dive-sites"
+
+[[menu.main]]
+    name       = "Our other day dive sites"
+    weight     = 3
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-other-day-dive-sites"
+
+[[menu.main]]
+    name       = "Liveaboards"
+    weight     = 4
+    parent     = "menu.our-diving"
+    url        = "/our-diving/liveaboards"
+
+[[menu.main]]
+    name       = "Our boats"
+    weight     = 5
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-boats"
+
+[[menu.main]]
+    name       = "Our Prices"
+    weight     = 6
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-prices"
+
+[[menu.main]]
+    name       = "Accom/Travel"
+    identifier = "menu.accommodation"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Accommodation & Travel"
+    weight     = 1
+    parent     = "menu.accommodation"    
+    url        = "/accommodation/accom-travel"
+
+[[menu.main]]
+    name       = "Accommodation gallery"
+    weight     = 2
+    parent     = "menu.accommodation"    
+    url        = "/accommodation/accom-gallery"
+
+[[menu.main]]
+    name       = "Tours"
+    identifier = "menu.tours"
+    weight     = 4
+
+[[menu.main]]
+    name       = "Commercial tours"
+    weight     = 1
+    parent     = "menu.tours"    
+    url        = "/tours/commercial-tours"
+
+[[menu.main]]
+    name       = "Free tours"
+    weight     = 2
+    parent     = "menu.tours"    
+    url        = "/tours/free-tours"
+
+[[menu.main]]
+    name       = "Visiting"
+    identifier = "menu.visit"
+    weight     = 5
+
+[[menu.main]]
+    name       = "Introduction"
+    weight     = 1
+    parent     = "menu.visit"    
+    url        = "/visiting/introduction"
+
+[[menu.main]]
+    name       = "Plan your trip"
+    weight     = 2
+    parent     = "menu.visit"    
+    url        = "/visiting/plan-your-trip"
+
+[[menu.main]]
+    name       = "Currents, climate and dive conditions"
+    weight     = 3
+    parent     = "menu.visit"    
+    url        = "/visiting/climate-and-dive-conditions"
+
+[[menu.main]]
+    name       = "Your packing list"
+    weight     = 4
+    parent     = "menu.visit"    
+    url        = "/visiting/packing-list"
+
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    weight     = 6
+
+[[menu.main]]
+    name       = "The team"
+    weight     = 1
+    parent     = "menu.about"
+    url        = "/about/the-team"
+
+[[menu.main]]
+    name       = "Photo gallery"
+    weight     = 2
+    parent     = "menu.about"  
+    url        = "/about/photo-gallery"  
+
+[[menu.main]]
+    name       = "Terms & conditions"
+    weight     = 3
+    parent     = "menu.about"
+    url        = "/about/terms-and-conditions" 
+
+[[menu.main]]
+    name       = "Contact"
+    identifier = "menu.contact"
+    weight     = 7
+    url        = "/contact" 
+
+# Top bar social links menu
+
+[params.topbar]
+    enable = true
+    text = "<p>Cell: <a href='tel:+593-98-5848720'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: info@galapagosdiveacademy.com</p>"
+
+# Footer
+
+[params.clients]
+    enable = true
+    title = "Our Clients"
+    subtitle = ""

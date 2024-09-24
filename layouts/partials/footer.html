@@ -1,0 +1,60 @@
+<footer id="footer">
+  <div class="container">
+    <div class="footer-black-bar"></div>
+    <div class="row">
+      <div class="col-md-6">
+        <p class="pull-left">{{ .Site.Params.about_us | safeHTML }}</p>
+      </div>
+      <div class="col-md-6 pull-right footer-logos">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 789 110">
+          <desc>Footer with third-party logos linking to their respective websites: BBC Studios' Natural History Unit, Divers Alert Network (DAN), Galápagos National Park, PADI (Professional Association of Diving Instructors) and SSI (Scuba Schools International).</desc>
+          <image width="789" height="110" xlink:href='{{ "img/footer/footer-logo-strip-2.png" | absURL }}'></image> 
+          <a xlink:href="https://productions.bbcstudios.com/our-production-brands/the-natural-history-unit" target="_blank">
+            <title>BBC Natural History</title>
+            <rect x="0" y="0" fill="#fff" opacity="0" width="156" height="110"></rect>
+          </a><a xlink:href="https://dan.org" target="_blank">
+            <title>Diver Alert Network</title>
+            <rect x="180" y="0" fill="#fff" opacity="0" width="131" height="110"></rect>
+          </a><a xlink:href="http://areasprotegidas.ambiente.gob.ec/es/areas-protegidas/parque-nacional-galápagos" target="_blank">
+            <title>Parque Nacional Galápagos</title>
+            <rect x="332" y="0" fill="#fff" opacity="0" width="219" height="110"></rect>
+          </a><a xlink:href="https://www.padi.com" target="_blank">
+            <title>PADI</title>
+            <rect x="560" y="0" fill="#fff" opacity="0" width="110" height="110"></rect>
+          </a><a xlink:href="https://www.divessi.com" target="_blank">
+            <title>SSI</title>
+            <rect x="682" y="0" fill="#fff" opacity="0" width="107" height="110"></rect>
+          </a>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            {{ if isset .Site.Params "copyright" }}
+            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+            {{ end }}
+            <p class="pull-right">
+              Website by Nick and Paul Multimedia <a href='mailto:nandpmultimedia@gmail.com>'>nandpmultimedia@gmail.com</a>.
+              {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
+              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+
+              {{ i18n "portedBy" | markdownify }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->

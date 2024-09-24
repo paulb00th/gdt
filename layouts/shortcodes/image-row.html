@@ -1,0 +1,16 @@
+{{ $title := (.Get "title") }}
+{{ $images := split (.Get "images") "," }}
+{{ $altText := split (.Get "alt") "," }}
+{{ $paddingTop := default "" (.Get "paddingTop") }}
+{{ $paddingBottom := default "" (.Get "paddingBottom") }}
+
+{{ if (isset .Params "title") }}
+<div style="padding-top: 10px"><p><i>{{ $title }}</i></p></div>
+{{ end }}
+<div class="image-row" style="padding-top: {{ $paddingTop }}; padding-bottom: {{ $paddingBottom }}">
+    {{ range $index, $image := $images }}
+        <div class="image-wrapper">
+            <img src="{{ $image | safeURL | relURL }}" alt="{{ index $altText $index }}">
+        </div>
+    {{ end }}
+</div>

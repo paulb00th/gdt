@@ -1,0 +1,140 @@
+.information {
+    color: #455972;
+}
+
+.align-left {
+    float: left;
+    /* margin: 0 0 1em 1em; */
+    padding-right: 10px;
+}
+
+.align-right {
+    float: right;
+    margin: 0 0 1em 1em;
+    /* padding-left: 10px; */   
+}
+
+.full-width-on-small {
+    width: 100%;
+}
+
+@media (min-width: 465px) {
+    .full-width-on-small {
+        width: auto;
+    }
+}
+
+/* image-row.html */
+
+.image-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 767px) {
+    .image-row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-wrapper {
+        flex-basis: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .image-wrapper {
+        flex-basis: 30%;
+        margin-right: 2%;
+        margin-bottom: 20px;
+    }
+
+    .image-wrapper:nth-child(3n+3) {
+        margin-right: 0;
+    }
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.footer-logos svg {
+    width: 100%;
+    height: auto;
+}
+
+/* -------------- */
+  
+.top-black-bar {
+    background-color: black;
+    height: 2px; /* Adjust the height to your desired thickness */
+}
+
+.footer-black-bar {
+    background-color: black;
+    height: 2px; /* Adjust the height to your desired thickness */
+    margin-bottom: 30px;
+}
+
+.grey-bar {
+    background-color: #9198a7;
+    height: 2px; /* Adjust the height to your desired thickness */
+    margin-bottom: 20px;
+}
+
+.bottom-aligned {
+    display: flex;
+    align-items: flex-end;
+}
+
+/* -- Strapline -- */
+
+.strapline {
+    color: #DF4538;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.large-strapline {
+    color: #DF4538;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/* -- Read more -- */
+
+.hidden-text {
+    display: none;
+}
+  
+.read-more-link {
+    cursor: pointer;
+    color: #559FB8;;
+}
+
+.accom-item {
+    background-color:#c3eefa;
+    /* border-style: solid; */
+    border-color: #455972;
+    border-width: thin;
+    border-radius: 5px;
+}
+.accom-item img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.accom-item h4 {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #2C4C97
+}
+.accom-item p {
+    margin-left: 10px;
+    margin-right: 10px;
+}

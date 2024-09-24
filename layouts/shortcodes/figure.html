@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $class := .Get "class" }}
+{{ $height := .Get "height" }}
+{{ $width := .Get "width" }}
+{{ $paddingTop := .Get "paddingTop" }}
+{{ $paddingBottom := .Get "paddingBottom" }}
+<figure class="{{ $class }}" {{ if or $paddingTop $paddingBottom }}style="{{ if $paddingTop }}padding-top: {{ $paddingTop }};{{ end }}{{ if $paddingBottom }}padding-bottom: {{ $paddingBottom }};{{ end }}"{{ end }}>
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" {{ if $height }}height="{{ $height }}"{{ end }} {{ if $width }}width="{{ $width }}"{{ end }}>
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
