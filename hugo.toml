@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/paulb00th/galapagos/'
+baseURL = 'https://github.com/paulb00th/gdt/'
 languageCode = 'en-us'
 title = 'Galapagos Dive Academy'
 theme = 'hugo-universal-theme'
@@ -39,9 +39,9 @@ canonifyURLs = true
 
 [params]
 
-logo = "img/gda-logo.png"
-logo_small = "img/gda-logo.png"
-about_us = "<p>Galapagos Dive Academy<br/>Marchena 201 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora, Ecuador</p>"
+logo = "img/gdt-logo.png"
+logo_small = "img/gdt-logo.png"
+about_us = "<p>Galápagos Dive Training & Conservation<br/>Juan León Mere y San Cristóbal (atrás de la Guardería Pingüinitos)<br/>Santa Cruz 200350, Puerto Ayora, Ecuador</p>"
 
 formspree_action = "https://formspree.io/f/xknakdek"
 contact_form_ajax = false
@@ -201,7 +201,7 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
 
 [params.topbar]
     enable = true
-    text = "<p>Cell: <a href='tel:+593-98-5848720'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: info@galapagosdiveacademy.com</p>"
+    text = "<p>Tel: <a href='tel:+593982957768/+5939852719690'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: galapagosdivetraining@gmail.com</p>"
 
 # Footer
 

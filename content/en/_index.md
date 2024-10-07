@@ -2,40 +2,28 @@
 title = "Home"
 +++
 
-{{< figure src="img/570x285.png" alt="Trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
+{{< figure src="img/gdt/home_page/GDT-Banner-03.png">}}
 
-<span class="large-strapline">GALAPAGOS DIVE ACADEMY - DESIGNED TO IMPROVE THE EXPERIENCE OF A LIFETIME!</span>
+<p>&nbsp</p>
 
-#### We provide:
+<!-- {{< figure src="img/gdt/home_page/HP-image-01.png" alt="ADD ALT TEXT" class="align-right full-width-on-small" >}} -->
 
-**High quality instruction for novice divers, in the safe waters of Academy Bay.**  This perfect training environment is set adjacent to the Charles Darwin Centre in Puerto Ayora and has dive sites just 10 minutes from the town’s harbour.
+<span class="large-strapline">Galapagos Dive Training & Conservation</span>
 
-**Access to the best dive and land-based operators on the islands.**  If you're already confident diving in the big blue or simply want to explore the wonders of Galapagos verde (green Galapagos), let us connect you to the most professional service-providers available.
+<span class="strapline">Conservation - In our name and in out ethos!</span>
 
-**Support to international film crews.**  If you’ve seen the BBC’s [Blue Planet](https://www.bbcearth.com/shows/blue-planet), presented by David Attenborough, or [My Family & The Galapagos](https://www.channel4.com/programmes/my-family-and-the-galapagos), presented by Monty Halls, our team was there, taking care of the safety diving, the remote camping, the logistics, etc.
+We offer a wide variety of expert-taught programs, ranging from introductory courses to scuba specialties, first aid training, and professional certification.  
 
+Our qualifications, all endorsed by PADI, the Professional Association of Diving Instructors, allow you to dive anywhere in the world but, with Galapagos Dive Training & Conservation, that’s not where it ends.  
 
+While you are with us in the richly inhabited Galapagos Marine Reserve, you will also learn about the islands’ conservation programmes and the citizen science initiatives to which you can contribute.
 
+Whether you’re new to diving or already qualified, our commitment to continuing education will enhance your skills and broaden your knowledge base. 
 
+<br/>
+<span class="strapline">Choose the best, choose Galapagos Dive Training & Conservation</span>
+<br/><br/>
 
-{{< readmore "readMore1" "hiddenText1" >}}
-There are several excellent scuba operators in the Galapagos, but each primarily specialises in taking qualified divers to distant sites - which are often very challenging for trainees.  **Galapagos Dive Academy**, founded by husband and wife team [Claudia](/about/the-team) and [Juan-Carlos](/about/the-team), offers a service that negates this difficulty by providing high quality instruction to novice divers in the safe waters of Academy Bay.  This perfect training environment, adjacent to Puerto Ayora, the largest town in the Galapagos, has dive sites just minutes from the town’s harbour and our offices.
+{{< image-row images="img/gdt/home_page/HP-image-01.png,img/gdt/home_page/HP-image-02.png" paddingTop="10px" >}}
 
-Let **Galapagos Dive Academy** teach you to the highest of standards in the safest of places.  We also offer refresher courses in Academy Bay, and diving for those seeking to test-out new imaging and research  equipment before embarking on an extended trip.
-
-**Galapagos Dive Academy** is located alongside DAN, (Diver’s Alert Network), the world’s most recognised and respected dive safety organisation. Our entrance way is 10m to the north of their recently developed centre housing Santa Cruz Island’s main decompression chamber.
-
-Besides offering the highest quality dive training, **Galapagos Dive Academy** specialises in providing:
-
-1) Access to the most professional dive and land-based operators on the islands; perfect for clients seeking the big blue, or who want to take a break from the water and explore the land.
-
-2) Support for international film crews working in the islands.  **Galapagos Dive Academy** regularly provides safety-diver cover, remove camping services, assistance with filming permits, dive boats, captains, specialised guides, supplies, transportation, accommodation, and more...
-
-Together, the crew at **Galapagos Dive Academy**  bring more than 50 years of dive industry expertise to everything they do.  Selecting **Galapagos Dive Academy** as your partner in the islands is the perfect way to improve your Galapagos experience.
-{{< /readmore >}}
-
-{{< image-row images="img/home_page/R2L-Clau1.png,img/home_page/Clau-2.jpg,img/home_page/R2R-Clau-triple.png" paddingTop="10px" >}}
-
-{{< image-row images="img/home_page/S-under2.png,img/home_page/R2C-ClauT.png,img/home_page/D-shoal2.png" paddingTop="10px" >}}
-
-{{< image-row images="img/home_page/1_Whale-shark2.jpg,img/home_page/2_Sealion2.jpg,img/home_page/3_Hammerhead2.jpg" paddingTop="10px" >}}
+{{< image-row images="img/gdt/home_page/HP-image-03.png,img/gdt/home_page/HP-image-04.png" paddingTop="10px" >}}

@@ -1,16 +1,25 @@
 <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
     <div class="navbar navbar-default yamm {{ if .Site.Params.dropdown_mouse_over }}mouseover{{ end }}" role="navigation" id="navbar">
         <div class="container">
+          <a class="navbar-brand home pull-right" href="{{ "" | relLangURL }}">
+            {{ if default false .Site.Params.disabled_logo }}
+              <h4>{{ .Site.Params.logo_text }}</h4>
+            {{ else }}
+              <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo" class="hidden-xs hidden-sm" />
+              <img src="{{ .Site.Params.logo_small | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
+            {{ end }}
+            <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
+          </a>
             <div class="navbar-header">
-                <a class="navbar-brand home" href="{{ "" | relLangURL }}">
-                    {{ if default false .Site.Params.disabled_logo }}
-                      <h4>{{ .Site.Params.logo_text }}</h4>
-                    {{ else }}
-                      <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo" class="hidden-xs hidden-sm" />
-                      <img src="{{ .Site.Params.logo_small | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
-                    {{ end }}
-                    <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
-                </a>
+              <!-- <a class="navbar-brand home" href="{{ "" | relLangURL }}">
+                  {{ if default false .Site.Params.disabled_logo }}
+                    <h4>{{ .Site.Params.logo_text }}</h4>
+                  {{ else }}
+                    <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Title }} logo" class="hidden-xs hidden-sm" />
+                    <img src="{{ .Site.Params.logo_small | relURL }}" alt="{{ .Title }} logo" class="visible-xs visible-sm" />
+                  {{ end }}
+                  <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
+              </a> -->
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                       <span class="sr-only">{{ i18n "navToggle" }}</span>
@@ -21,7 +30,7 @@
             <!--/.navbar-header -->
 
             <div class="navbar-collapse collapse" id="navigation">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-left">
                   {{ $current := . }}
 
                   {{ range .Site.Menus.main.ByWeight }}

@@ -1,13 +1,13 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
-  --navbar-border-top: #20616d;
-  --button-border: #2a7d8c;
-  --link-focus: #267280;
-  --form-shadow: rgba(56, 167, 187, 0.6);
-  --pagination-bg: #a7dbe5;
-  --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --primary-accent: rgb(183, 231, 247);
+  --navbar-border-top: rgb(91, 158, 183);
+  --button-border: rgb(122, 189, 215);
+  --link-focus: rgb(107, 174, 200);
+  --form-shadow: rgba(183, 231, 247, 0.6);
+  --pagination-bg: rgb(214, 240, 250);
+  --link-hover-bg: rgb(137, 204, 230);
+  --navbar-focus: rgb(199, 237, 250);
 }
 
 .clearfix:before,
@@ -243,7 +243,7 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
+  background: #16364C;
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -439,7 +439,8 @@ ul.list-style-none {
   padding: 0;
 }
 .navbar .navbar-buttons {
-  float: right;
+  float: left;
+  margin-left: 15px;
 }
 .navbar .navbar-buttons button,
 .navbar .navbar-buttons a.btn,
@@ -2944,8 +2945,8 @@ fieldset[disabled] .btn-template-primary.active {
   text-decoration: none;
 }
 .navbar-brand img {
-  margin-top: -8px;
-  max-height: 76px;
+  margin-top: -20px;
+  max-height: 150px;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
@@ -3008,6 +3009,7 @@ fieldset[disabled] .btn-template-primary.active {
 @media (min-width: 768px) {
   .navbar-left {
     float: left !important;
+    margin-left: -15px;
   }
   .navbar-right {
     float: right !important;
