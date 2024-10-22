@@ -5,7 +5,7 @@
 
 <span class="strapline">This might help!</span>
 
-{{< figure src="img/visiting/Travel-docs.png" class="align-right full-width-on-small" >}}
+{{< figure src="-" class="align-right full-width-on-small" >}}
 
 Regardless of whether you arrive in the islands during the hot or cold season, the essential items you require are likely to be as follows:
 
@@ -55,6 +55,6 @@ Perhaps also your full dive kit - *but note all this gear can be rented once you
 
 **-**
 Also in this section: 
-[Visiting us - Introduction](/visiting/introduction)
-[Plan your trip](/visiting/plan-your-trip)
-[Climate and dive conditions](/visiting/climate-and-dive-conditions)
+[Visiting us - Introduction]
+[Plan your trip]
+[Climate and dive conditions]

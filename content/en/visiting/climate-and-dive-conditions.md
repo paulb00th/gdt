@@ -1,29 +1,17 @@
 +++
 +++
 
-### VISITING THE GALAPAGOS - Currents, climate, and dive conditions
+### VISITING THE GALAPAGOS - Conditions
 
-<span class="strapline">Choose the right time for your trip...</span>
+<span class="strapline">Choose your time to visit..</span>
 
-{{< figure src="img/visiting/Currents2.png" class="align-right full-width-on-small" >}}
+{{< figure src="-" class="align-right full-width-on-small" >}}
 
 #### The currents and their influence on life
-The Galapagos islands astonishingly rich marine environment results from the convergence of five major ocean currents and the equatorial weather influence.
- 
-1 - The Humboldt Current, named after explorer Alexander von Humboldt, sweeps north up the western coast of South America, past Chile and Peru, carrying cold, nutrient rich water from the Antarctic. 
- 
-2 - This current turns west at the equator and joins the South Equatorial current before heading straight towards the Galapagos and helping to create one of the world’s most productive marine ecosystems.
- 
-3 - The Panama current, which flows down from Central America, is not as nutrient rich as the Humboldt, but it brings warm diving and better visibility between December and May each year.
- 
-4 - The wind driven north ‘Equatorial Counter-current’ that runs from west to east, cuts through the above currents and directs flow south down the coast.
- 
-5 - The final, and possibly most important current is the Cromwell ‘Pacific Equatorial’ undercurrent which flows about 100 m below the surface, from west to east.  When it hits the Galapagos, first on the west coasts of Fernandina and Isabela, it provides an upwelling of more cool, nutrient rich waters.
- 
-If you take a liveaboard that visits Punta Vincente Roca on the northwest coast of Isabela, you will come to understand the cool nature of the Cromwell undercurrent!
+Coming soon
 
 #### Life through the year
-As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina). Set out below is a general guide to the key marine animals that are present through the year:
+Coming soon
  
 **Hammerhead Sharks**
 All year (but more frequent between February and June)
@@ -59,7 +47,7 @@ Generally, July to November
 {{<
 image-row
 title="Set out below, a few of the locals!"
-images="img/visiting/Climate-600-galapagos_fish1.png,img/visiting/Climate-600-galapagos_fish2.png,img/visiting/Climate-600-galapagos_fish3.png" 
+images="-" 
 paddingTop="10px"
 paddingBottom="0px"
 >}}
@@ -99,6 +87,6 @@ On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with
 
 **-**
 Also in this section: 
-[Visiting us - Introduction](/visiting/introduction)
-[Plan your trip](/visiting/plan-your-trip)
-[Packing list](/visiting/packing-list)
+[Visiting us - Introduction]
+[Plan your trip]
+[Packing list]
