@@ -10,6 +10,10 @@
   --navbar-focus: rgb(199, 237, 250);
 }
 
+header a {
+  color: var(--primary-accent);
+}
+
 .clearfix:before,
 .clearfix:after,
 .navbar:before,
@@ -2528,7 +2532,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #ffffff;
+  background-color: rgb(235, 247, 251);
   padding: 10px 0 100px;
   color: #999999;
 }
@@ -3082,7 +3086,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: rgb(235, 247, 251);
   border-color: #cccccc;
   border-bottom: none;
 }
@@ -3183,9 +3187,10 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
+  background: rgb(235, 247, 251);
 }
 a {
-  color: var(--primary-accent);
+  /* color: var(--primary-accent); */
   text-decoration: none;
 }
 a:hover,
