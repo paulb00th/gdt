@@ -1,15 +1,15 @@
 +++ 
 +++
 
-### OUR DIVING - The courses and adventures we offer
+### DIVING - OUR COURSES AND ADVENTURES
 
-<span class="strapline">Expertly taught and fun to learn! </span>
+<span class="strapline">Come have fun with us! </span>
  
 {{< padi-ssi >}}
 
-**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors, and with [SSI](https://www.divessi.com), Scuba Schools International.  
+**Galapagos Dive Training and Conservation** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  
 
-With a PADI or SSI certification you can dive in nearly 200 countries and territories, at thousands of dive centres and resorts. PADI and SSI are the world's leading diving and ocean exploration organizations, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
+With a PADI qualification you can dive in nearly 200 countries and territories, at thousands of dive centres and resorts. PADI is the world's leading diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
 [See Our Prices](/our-diving/our-prices)
 
@@ -43,16 +43,16 @@ Minimum age: 10 years old.
 Maximum depth: 12 meters.
 Schedule: 8 am to 12 pm or 1:30 pm to 5 pm.
 
-Program: Our DSD activity begins at our office (on the day of your DSD, or the day before, depending on the number of participants). There, you will initially watch a video and take a short class guided by an Instructor. Then, after trying on and selecting the right equipment, we will transfer to the dock and take our boat to the Punta Estrada dive site.
+**Program:** Our DSD activity begins at our office (on the day of your DSD, or the day before, depending on the number of participants). There, you will initially watch a video and take a short class guided by an Instructor. Then, after trying on and selecting the right equipment, we will transfer to the dock and take our boat to the Punta Estrada dive site.
 
 Following a briefing about the location, the 
 facilities on our boat, water entry and exit techniques, dive safety, and the day’s conditions, we will conduct a confined open water session (maximum 5 meters in a protected area) where, with your instructor, you will practice buoyancy techniques and equipment use. Then, you will do our Punta Estrada Adventure Dive to a maximum depth of 12 meters / 40 feet.
 
-Sightings: During the program you will be able to observe a great variety of reef animals, including small marine invertebrates, mollusks, and crustaceans, parrot fish, goat fish, witch fish, damsel fish, cod, horse mackerels, moray eels, a variety of different ray species, white tip sharks, and Galapagos sharks. Sea turtles and sea lions are also likely to be present.
+**Sightings:**  During the program you will be able to observe a great variety of reef animals, including small marine invertebrates, mollusks, and crustaceans, parrot fish, goat fish, witch fish, damsel fish, cod, horse mackerels, moray eels, a variety of different ray species, white tip sharks, and Galapagos sharks. Sea turtles and sea lions are also likely to be present.
 
 PADI Registration: Upon completion of the Adventure, participants receive a Certificate of Participation from PADI, (Note - the certificate is not a diving license).
 
-The Program Includes
+**The Program includes:**
 PADI Instructor
 Theoretical and practical sessions
 Diving equipment
@@ -61,7 +61,7 @@ Towels
 Water (bring your reusable container)
 Certificate of Participation registered with PADI
 
-The Program DOES NOT include
+**Not included:**
 Extra dives
 Tips
 Photographs or videos

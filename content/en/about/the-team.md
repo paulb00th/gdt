@@ -1,14 +1,14 @@
 +++
 +++
 
-### ABOUT US - The Team
+### ABOUT OUR TEAM
 
-<span class="strapline">A carefully crafted group offering decades of dive industry expertise! </span>
+<span class="strapline">Fun instructors with years of dive experience! </span>
 
 
-**Galapagos Dive Academy** provides excellence in dive safety and instruction, while offering the highest levels of customer service available in the islands.  Between them, company principals **Claudia** and **Juan-Carlos** bring together more than 35 years of experience as instructors, a wealth of specialist local knowledge, and a real passion for the natural environment. Add in the competencies of the others in the team and **Galapagos Dive Academy** provides an unrivalled capability drawing upon more than 50 years of know how!
+**Galapagos Dive Training and Conservation** provide the highest standards of dive safety, dive education, customer service, and customer experience.  The company principals, **Paulo** and **xxxxx**, have decades of dive experience, great local knowledge, and a consuming passion for conservation. These strengths and the competencies of the others in the team mean that **Galapagos Dive Training nd Conservation** can provide you with everything you need for your Galapagos adventure!
 
-Here’ a little detail about those at the heart of the operation...
+Set out below is a little more about the teeam...
  
 ##### Claudia Molina - PADI IDC Staff Instructor, SSI Instructor, and co-owner.
 
@@ -41,20 +41,6 @@ I have been a diver since 2001 and a PADI Instructor since 2008, certifying some
 Alongside Claudia, I’ve been developing our business supporting international film crews working in the islands and today, my roles are split between teaching and supporting documentary film makers.
 
 *Image - Juan-Carlos Balda*
-
-<div class="grey-bar"></div>
-
-##### Alan Jacome - PADI Free-Diving Instructor
-
-{{< figure src="img/about/Alan Jacome.png" class="align-right full-width">}}
-
-I’m a local, having been born and raised in the Galapagos on Santa Cruz Island.  Here, since childhood, I’ve enjoyed our many snorkelling and surfing sites. A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom, and this became my motivation to learn freediving. I started a formal course in 2020 and became a PADI Freedive Instructor in 2021. 
-
-In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests! I’m often asked, ‘why should I freedive’? For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact 
-
-Some people freedive for the challenge, but for me it’s true appeal lays in the calm it brings to a hectic world. While on a breath hold dive, I can silently merge with the underwater world and enjoy its many rare sights and extraordinary sounds - come join me!
-
-*Image - Alan Jacome*
 
 <div class="grey-bar"></div>
 
@@ -102,13 +88,13 @@ Nick and Paul have known each other for many years and when not busy with work a
 
 Nick and Paul say:
 
- *We have come to hold those at Galapagos Dive Academy in high regard and are keen to see their business realise its full potential.  Our best wishes to to Claudia, Juan-Carlos and everyone associated with the new company!*
+ *We have known the guys at Galapagos Dive Training and Conservation for some time now and are really pleased they have finally set up their own business.  Their skills and energy will greatly advance the scuba offer in the islands! Our best wishes to everyone associated with the new company!*
 
 For the techies out there, this website was built using Hugo and is hosted on Github Pages. 
 
 If you would like to contact Nick and Paul, use the email address in the website footer.
 
-*Image - Nick and Paul at work on the GDA website*
+*Image - Nick and Paul at work on the GDT website*
 
 <div class="grey-bar"></div>
 

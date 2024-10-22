@@ -3,22 +3,21 @@
 
 ### PHOTO GALLERY
 
-<span class="strapline">We love photos of the Galapagos, send us yours! </span>
+<span class="strapline">Our Galapagos photos.  Why not contribute?  Send us yours! </span>
 
 Set out below are a selection of photographs that we and our friends have taken while diving and travelling around the Galapagos Islands.  We hope you enjoy them and can soon visit to capture your own images!
 
-If you’d like to contribute to the gallery, please note that we will add your images under the terms of the [Creative Commons license, ACC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) (i.e., as per the license used by Wikipedia).  If you would like to proceed, please email your work to us via: info@galapagosdiveacademy.com
+If you’d like to contribute to the gallery, please note that we will add your images under the terms of the [Creative Commons license, ACC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) (i.e., as per the license used by Wikipedia).  If you would like to proceed, please email your work to us via: galapagosdivetraining@gmail.com
 
-We are especially grateful to the following for their contributions to the Gallery and the pictures used in this website:
+We are grateful to the following for their contributions:
 
-*Joshua Vela,*
-*Naire Thanaporn Sajjavanij,*
+
 *NickT,*
 *Nushi*
 *and*
-*The Galapagos Dive Academy Team*
+*The Galapagos Dive Training Team*
 
-### Recent, mostly 2023, images (click to enlarge):
+### Recent images (click to enlarge):
 <ul>
 {{<
 gallery-row
