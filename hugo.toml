@@ -201,7 +201,7 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
 
 [params.topbar]
     enable = true
-    text = "<p>Tel: <a href='tel:+593982957768/+5939852719690'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: galapagosdivetraining@gmail.com</p>"
+    text = "<p>Tel:&nbsp;<a href='tel:+593982957768/+5939852719690'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: galapagosdivetraining@gmail.com</p>"
 
 # Footer
 

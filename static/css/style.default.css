@@ -558,7 +558,8 @@ ul.list-style-none {
   border-radius: 0;
 }
 .btn-template-main {
-  color: var(--primary-accent);
+  /* color: var(--primary-accent); */
+  color: #16364C; 
   background-color: #ffffff;
   border-color: var(--primary-accent);
 }
