@@ -2534,7 +2534,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #footer {
   background-color: rgb(235, 247, 251);
-  padding: 10px 0 100px;
+  padding: 10px 0 20px;
   color: #999999;
 }
 #footer h1,
