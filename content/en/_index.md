@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-{{< figure src="img/gdt/home_page/GDT-Banner-03.png">}}
+{{< figure src="img/gdt/home_page/GDT-Banner-04.png">}}
 
 <p>&nbsp</p>
 
@@ -24,6 +24,8 @@ Whether you’re new to diving or already qualified, our commitment to continuin
 <span class="strapline">Choose the best, choose Galapagos Dive Training & Conservation</span>
 <br/><br/>
 
-{{< image-row images="img/gdt/home_page/HP-image-01.jpg,img/gdt/home_page/HP-image-02.jpg" paddingTop="10px" >}}
+{{< image-row images="img/gdt/home_page/HP-image-01.png,img/gdt/home_page/HP-image-02.png" paddingTop="10px" >}}
 
-{{< image-row images="img/gdt/home_page/HP-image-03.jpg,img/gdt/home_page/HP-image-04.jpg" paddingTop="10px" >}}
+{{< image-row images="img/gdt/home_page/HP-image-03.png,img/gdt/home_page/HP-image-04.png" paddingTop="10px" >}}
+
+{{< image-row images="img/gdt/home_page/HP-image-05.png,img/gdt/home_page/HP-image-06.png" paddingTop="10px" >}}
