@@ -12,8 +12,6 @@ We mostly conducted training dives in Academy Bay, which is adjacent to Puerto A
 
 We use four sites, all accessible within a 10-to-20-minute boat ride from our harbour and offer daily trips at 08:00, 13.00, and 18.00 hrs, for 1 and 2 tank adventures. We always provide users with rope lines to assist with ascent and descent.
 
-<div class="grey-bar"></div>
-
 #### PUNTA ESTRADA
 
 Approximately 10 mins from Puerto Ayora and laying to the southwest side of the bay, this dive site is perfect for novice & reactivate students as well as for experienced divers, for whom it offers fabulous night diving.
