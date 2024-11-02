@@ -3,7 +3,7 @@
 
 ### TOURS - Free, and near free activities 
 
-{{< figure src="-" >}}
+{{< figure src="img/tours/free.png"class="align-right full-width-on-small" >}}
 
 <span class="strapline">Economic and full of fun!</span>
 <B></B>

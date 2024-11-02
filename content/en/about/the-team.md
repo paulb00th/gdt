@@ -3,7 +3,7 @@
 
 ### ABOUT OUR TEAM
 
-<span class="strapline">Our instructors </span>
+<span class="strapline">The best of the best! </span>
 
 
 **Galapagos Dive Training and Conservation** provide the highest standards of dive safety, dive education, customer service, and customer experience.  The company principals, **Paulo** and **Mateox**, have decades of dive experience, great local knowledge, and a consuming passion for conservation. These strengths and the competencies of the others in the team mean that **Galapagos Dive Training nd Conservation** can provide you with everything you need for your Galapagos adventure!

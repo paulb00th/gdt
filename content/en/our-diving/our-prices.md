@@ -3,7 +3,7 @@
 
 ### OUR PRICE LIST
 
-{{< figure src="" class="align-right full-width-on-small" >}}
+{{< figure src="img/our-diving/W-TIP-SHARK.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Trust us to deliver you the best quality experiences at the best prices!</span>
 

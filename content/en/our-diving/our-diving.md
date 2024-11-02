@@ -5,7 +5,7 @@
 
 <span class="strapline">Come have fun with us! </span>
  
-{{< padi-ssi >}}
+{{< figure src="img/our-diving/PADI-logo.png" class="align-right full-width">}}
 
 **Galapagos Dive Training and Conservation** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  
 

@@ -3,6 +3,8 @@
 
 ### TERMS & CONDITIONS
 
+<span class="strapline">Please read our 'small print' </span>
+
 {{< figure src="img/about/T&C-600x300.png" class="align-right full-width-on-small" >}}
 
 1. **Responsibilities**
