@@ -24,13 +24,13 @@ While visiting our northern most sites you should expect to see large schools of
 
 Throughout most of the year divers will see, dolphins, Galapagos sharks, silky sharks, Mola mola and white spotted eagle rays.
 
-Please note:
+**Please note:**
 
-1 - Long-range boats are heavily booked throughout Whale Shark season, so we advise that you reserve your place/s at least a year in advance. 
+**1** - Long-range boats are heavily booked throughout Whale Shark season, so we advise that you reserve your place/s at least a year in advance. 
 
-2 - Liveaboard operators expect their clients to have significant dive experience, with most looking for between 50 and 100 dives in the recent past.11 
+**2** - Liveaboard operators expect their clients to have significant dive experience, with most looking for between 50 and 100 dives in the recent past.11 
 
-PS - If you’re English speaking and would like to contact someone who has travelled on long range Galapagos boats for an independent view of what’s on offer, email Nick who helped develop this website, he’d be happy to share his thoughts and discuss how to organise your trip. His email address is: nandpmultimedia@gmail.com.
+**PS** - If you’re English speaking and would like to contact someone who has travelled on long range Galapagos boats for an independent view of what’s on offer, email Nick who helped develop this website, he’d be happy to share his thoughts and discuss how to organise your trip. His email address is: nandpmultimedia@gmail.com.
 
 Links to two of our favourite long-range boats are below:
 
