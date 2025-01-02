@@ -26,7 +26,7 @@ Called Tortuga Bay due to the green sea turtles that use it as a nesting site, t
 
 If you want somewhere with no waves, just continue walking around the north point to a secluded lagoon where it is possible to snorkel and rent kayaks.  This is the location you are deposited/collected if you choose to access the area via boat from the town’s main harbour.
 
-- 
+<br/>
 
 ##### The Charles Darwin Research Centre:
 A 15- to 20-minute walk east of town, set on Av. Charles Darwin.  Open 6am – 6pm.
@@ -35,21 +35,21 @@ More than 200 scientists and volunteers are involved with research and conservat
  
 Visiting some parts of this site requires payment of a $10 fee per person.
 
-- 
+<br/>
 
 ##### Station Beach:
 A 12-15 minute walk east of Puerta Ayora, aside Av. Charles Darwin, you arrive here about 5 minutes before reaching the Darwin centre. Open 6 a.m. – 6 p.m
 
 This beach is small but perfect, being excellent throughout the tidal range. Many locals swim laps here when the water is calm and the mornings are hot. It’s a great place to see marine iguanas in the water. Why not stop for a refreshing swim at Station Beach while on your way to/from the Charles Darwin Research Station.
 
-- 
+<br/>
 
 ##### German Beach:
 A 4-5 minute walk, after taking a water taxi ride across the main bay in Puerta Ayora.
 
 The best time to visit German Beach is at high tide, when you’ll find more water and fewer rocks! This small bay with a gradual shelving beach is one of the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below.
 
-- 
+<br/>
 
 ##### Las Grietas:
 Accessed via footpath (40-minute walk to the west of town). Open from 6am to 7pm.
@@ -58,14 +58,14 @@ Las Grietas is a series of water filled crevices in the rocks adjacent to the se
  
 Recently, set times for park ranger led visits have been introduced, along with a tourist fee of $10 per person.
 
-- 
+<br/>
 
 ##### Garrapatero Beach:
 A 30- to 40-minute taxi ride east of Puerto Ayora, followed by a 15-minute walk to the beach.
  
 Garrapatero offers a wide bay with multiple sandy beaches and tidal pools, making it a great place to explore and snorkel, especially on calm days. You can also rent kayaks and paddle across the bay to see juvenile sharks.  There is a freshwater lagoon adjacent to the beach, which is occasionally visited by pink flamingos.
 
-- 
+<br/>
 
 ##### Cerro Crocker and Media Luna:
 North of Bellavista, Santa Cruz Island
