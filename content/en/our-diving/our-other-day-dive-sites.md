@@ -21,12 +21,10 @@ For experienced clients holding at minimum a PADI Advanced Open Water certificat
 
 **Whichever route you select** you will complete two dives during the trip and enjoy snacks and refreshments during dive intervals. Regardless of the destination, you can generally expect to be back at your accommodation between 15.30 and 16.00 hrs.
 
-For further details about our trips please, Contact Us
-
-
 
 #### Our long-range, daytrip, dive locations
--
+
+<br/>
 
 **BARTOLOME**
 
@@ -44,7 +42,7 @@ During the surface interval, the dive boat often approaches Bartolome pinnacle s
 
 Note, Bartolome and Cousins are usually dived in combination.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -64,7 +62,7 @@ Expect to also see some of the following, sealions, green sea turtles, cleaning 
 
 Note, Bartolome and Cousins are usually dived in combination.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -80,7 +78,7 @@ An exposed rock provides for a single dive site, with a small cavern housing res
 
 Note, Daphne Minor is usually dived in combination with either Mosquera or one of the North Seymour sites.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -102,7 +100,7 @@ White and blacktip reef sharks, and Galapagos sharks also frequent the area, as 
 
 Note, Gordon is often offered as a double dive but sometimes it is combined with a dive along the coast of Santa Cruz.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -122,7 +120,7 @@ The more northerly site presents a rocky area that connects with Seymour channel
 
 Note, Mosquera is sometimes offered as a double dive and on other occasions is combined with a dive at Seymour or the coastline along Santa Cruz.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -140,7 +138,7 @@ With reefs over a sandy bottom. The site has a lot of fish cleaning stations, th
 
 Note, because of the proximity of the Point to the Channel, the two locations are often dived in combination.  Alternatively, the dive might visit either Mosquera or Daphne Minor.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
@@ -156,4 +154,4 @@ The nearshore area is with a rocky bottom and small caves at approx. 12 m. Here 
 
 Note, because of the proximity of the Point to the Channel, the two locations are often dived in combination.  Alternatively, the dive might visit either Mosquera or Daphne Minor.
 
-To book a place on one of these trips please, Contact Us
+**To book a place on one of these trips please [Contact Us](/contact).**
