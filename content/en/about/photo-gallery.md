@@ -11,5 +11,44 @@ We love visitor’s pictures, so if  you’d like to contribute to the gallery s
 
 **Click on the images below to enlarge them.**
 
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/andycruz-1.png,img/gallery/thumbs/andycruz-2.png"
+fullsize="img/gallery/andycruz-1.png,img/gallery/andycruz-2.png"
+alt="TO DO, TO DO"
+>}}
 
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/GDT-1.png,img/gallery/thumbs/GDT-3.png"
+fullsize="img/gallery/GDT-1.png,img/gallery/GDT-3.png"
+alt="TO DO, TO DO"
+>}}
 
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/GDT-2.png,img/gallery/thumbs/GDT-4.png"
+fullsize="img/gallery/GDT-2.png,img/gallery/GDT-4.png"
+alt="TO DO, TO DO"
+>}}
+
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/R11-2-Frigate.jpg,img/gallery/thumbs/R13-1-SWiguana1.jpg"
+fullsize="img/gallery/R11-2-Frigate.jpg,img/gallery/R13-1-SWiguana1.jpg"
+alt="TO DO, TO DO"
+>}}
+
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/R7-3-Return-from-Tib.jpg,img/gallery/thumbs/R8-3-Flight.jpg"
+fullsize="img/gallery/R7-3-Return-from-Tib.jpg,img/gallery/R8-3-Flight.jpg"
+alt="TO DO, TO DO"
+>}}
+
+{{<
+gallery-row
+thumbs="img/gallery/thumbs/R13-2-Seal.jpg,img/gallery/thumbs/R14-1Cactus-flowers.jpg"
+fullsize="img/gallery/R13-2-Seal.jpg,img/gallery/R14-1Cactus-flowers.jpg"
+alt="TO DO, TO DO"
+>}}
