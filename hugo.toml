@@ -145,22 +145,10 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
     url        = "/visiting/introduction"
 
 [[menu.main]]
-    name       = "Plan your trip"
+    name       = "Currents, climate, diving and rules"
     weight     = 2
     parent     = "menu.visit"    
-    url        = "/visiting/plan-your-trip"
-
-[[menu.main]]
-    name       = "Currents, climate and dive conditions"
-    weight     = 3
-    parent     = "menu.visit"    
-    url        = "/visiting/climate-and-dive-conditions"
-
-[[menu.main]]
-    name       = "Your packing list"
-    weight     = 4
-    parent     = "menu.visit"    
-    url        = "/visiting/packing-list"
+    url        = "/visiting/currents-climate-diving-and-rules"
 
 [[menu.main]]
     name       = "About"

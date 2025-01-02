@@ -70,11 +70,11 @@ ii)	Undergo ‘Bio-security Bag Screening’ after you obtain your TCC and befor
 
 You do this by passing all your luggage through dedicated x-ray machines. There is a restricted list of fruits, vegetables, nuts, and grains that you can carry into the Galapagos. Generally, store-purchased sealed goods with labels are okay but fresh, natural, goods are likely to be confiscated.  After you have your TCC documentation, have paid the fee for this, and have taken your bags through Bio security, take your return tickets and check in at the counter of your chosen airline.
 
-iii)	Upon your arrival in the islands, you will be required to complete a declaration confirming that you are not bringing any items that violate bio-security regulations and to pay the entrance fee for the National Park.  
+iii) Upon your arrival in the islands, you will be required to complete a declaration confirming that you are not bringing any items that violate bio-security regulations and to pay the entrance fee for the National Park.  
 
 While there is an ATM machine at the airport, this may not always be operational and bringing cash for this purchase is advised.
 
--
+<br/>
 
 The entrance fee for the National Park is determined by the visitor's status, as outlined below:
  
@@ -142,4 +142,4 @@ Perhaps also your full dive kit - but note all this gear can be rented once you�
 
 See also in this section:
 
-[Currents, climate, diving and rules!](/visiting/climate-and-dive-conditions)
+[Currents, climate, diving and rules!](/visiting/currents-climate-diving-and-rules)
