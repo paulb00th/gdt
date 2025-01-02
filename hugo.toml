@@ -117,12 +117,6 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
     url        = "/accommodation/accom-travel"
 
 [[menu.main]]
-    name       = "Accommodation gallery"
-    weight     = 2
-    parent     = "menu.accommodation"    
-    url        = "/accommodation/accom-gallery"
-
-[[menu.main]]
     name       = "Tours"
     identifier = "menu.tours"
     weight     = 4

@@ -15,9 +15,9 @@ We have assisted people from all over the world with their trips here, often on 
 
 So, why not take a leaf out of their play book and let us help you with the travel and accommodation challenges associated with any 'remote' trip. 
 
--
+<br/>
 
-For help with all your travel and accommodation issues, Contact Us
+For help with all your travel and accommodation issues, [Contact Us](/contact)
 
 {{< image-row images="img/accom-travel/Accom1.png,img/accom-travel/Accom2.png" paddingTop="10px" >}}
 
