@@ -76,10 +76,10 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
     url        = "/our-diving/our-diving"
 
 [[menu.main]]
-    name       = "Our main dive sites"
+    name       = "Our training sites"
     weight     = 2
     parent     = "menu.our-diving"
-    url        = "/our-diving/our-main-dive-sites"
+    url        = "/our-diving/our-training-sites"
 
 [[menu.main]]
     name       = "Our other day dive sites"
