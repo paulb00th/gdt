@@ -24,7 +24,7 @@ Perhaps you can catch us while we're out on a training trip!
 
 [Our Main Training Sites](/our-diving/our-main-dive-sites)
 
--
+<br/>
 
 If you select us as your provider for longer-range day diving, (an activity suitable for almost all advanced divers), we will only place you on the very best and most reliable vessels currently servicing the Santa Cruz area.  
 
