@@ -15,40 +15,40 @@ We love visitor’s pictures, so if  you’d like to contribute to the gallery s
 gallery-row
 thumbs="img/gallery/thumbs/andycruz-1.png,img/gallery/thumbs/andycruz-2.png"
 fullsize="img/gallery/andycruz-1.png,img/gallery/andycruz-2.png"
-alt="TO DO, TO DO"
+alt="GDA client about to dive in Academy Bay, Three GDA clients in water with our dive boat"
 >}}
 
 {{<
 gallery-row
 thumbs="img/gallery/thumbs/GDT-1.png,img/gallery/thumbs/GDT-3.png"
 fullsize="img/gallery/GDT-1.png,img/gallery/GDT-3.png"
-alt="TO DO, TO DO"
+alt="GDA client diving with shoal of salima fish, Young GDA client training in swimming pool"
 >}}
 
 {{<
 gallery-row
 thumbs="img/gallery/thumbs/GDT-2.png,img/gallery/thumbs/GDT-4.png"
 fullsize="img/gallery/GDT-2.png,img/gallery/GDT-4.png"
-alt="TO DO, TO DO"
+alt=" Three GDA clients training in swimming pool, Paulo Tobar leading a dive"
 >}}
 
 {{<
 gallery-row
 thumbs="img/gallery/thumbs/R11-2-Frigate.jpg,img/gallery/thumbs/R13-1-SWiguana1.jpg"
 fullsize="img/gallery/R11-2-Frigate.jpg,img/gallery/R13-1-SWiguana1.jpg"
-alt="TO DO, TO DO"
+alt="Frigate bird over Puerto Ayora, Salt water iguana on sandy beach"
 >}}
 
 {{<
 gallery-row
 thumbs="img/gallery/thumbs/R7-3-Return-from-Tib.jpg,img/gallery/thumbs/R8-3-Flight.jpg"
 fullsize="img/gallery/R7-3-Return-from-Tib.jpg,img/gallery/R8-3-Flight.jpg"
-alt="TO DO, TO DO"
+alt="Clients returning from liveaboard trip, Frigate birds over Charles Darwin pinnacles"
 >}}
 
 {{<
 gallery-row
 thumbs="img/gallery/thumbs/R13-2-Seal.jpg,img/gallery/thumbs/R14-1Cactus-flowers.jpg"
 fullsize="img/gallery/R13-2-Seal.jpg,img/gallery/R14-1Cactus-flowers.jpg"
-alt="TO DO, TO DO"
+alt="Sea lion resting on rocks, Night cactus blooming"
 >}}
