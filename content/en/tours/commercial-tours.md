@@ -1,10 +1,11 @@
 +++
 +++
 
-### TOURS – Land- & water-based day excursions
+### TOURS – Land & water-based day excursions
 
+{{< figure src="img/Iguana-image.png" class="align-right full-width-on-small" >}}
 
-  <Br></B>
+</B>
 <span class="strapline">Enhancing the experience of a lifetime!</span>
 
 As you might expect, here in the Galapagos, there’s a huge number of places to go, things to do and people to see. Many of the activities on offer are paid day excursions that require you to be accompanied by a qualified land guide. . Set out below we list some of the most popular sites on offer. 
