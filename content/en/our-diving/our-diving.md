@@ -17,26 +17,6 @@ With a PADI qualification you can dive in nearly 200 countries and territories, 
 
 #### Discover Scuba Diving (DSD)
 
-<!-- xOur DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI/SSI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
-
-**To join us for a DSD experience you must:**
-
-<blockquote>
-<p>Be a minimum of 10 years old</p>
-
-<p>Know how to swim</p>
-
-<p>Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)</p>
-
-<p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</p>
-</blockquote>
-
-Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching centre, at the dive site named [Punta Estrada](/our-diving/our-main-dive-sites).  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spend underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
- 
-Learn more about our [DSD course](/our-diving/more-about-dsd)
- 
-**If you would like to book our DSD trip, please [Contact Us](/contact?message=Enquiry%20about%20DSD%20Course).** -->
-
 Experience the magic of breathing underwater with Discover Scuba Diving (DSD). The DSD program does not offer a diving certification but rather an introductory dive experience, during which you learn the basic skills for safe and fun diving under the supervision of a Galápagos Dive Training PADI Instructor.
 
 Minimum age: 10 years old.
@@ -68,7 +48,7 @@ Tips
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+**If you would like to book our DSD trip, please [Contact Us](/contact?message=Enquiry%20about%20DSD%20Course).**
 
 {{< image-row images="img/our-diving/DSD1.png,img/our-diving/DSD2.png" paddingTop="10px" >}}
 
@@ -121,7 +101,7 @@ Tips
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+**If you would like to book an open water course, please [Contact Us](/contact?message=Enquiry%20about%20Open%20Water%20Course).**
  
 {{< image-row images="img/our-diving/OW1.png,img/our-diving/OW2.png" paddingTop="10px" >}}
 
@@ -129,13 +109,11 @@ If you would like to book an Open Water course, please Contact Us
 
 #### We offer a wide variety of other PADI courses, including those offered below.
 
-If you would like to book any of these, please Contact Us.
-
 #### Advanced Open Water
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book an advanced open water course, please [Contact Us](/contact?message=Enquiry%20about%20Advanced%20Open%20Water%20Course)
 
 {{< image-row images="img/our-diving/AOW1.png,img/our-diving/AOW2.png" paddingTop="10px" >}}
 
@@ -145,7 +123,7 @@ If you would like to book an Open Water course, please Contact Us
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book an advanced open water course, please [Contact Us](/contact?message=Enquiry%20about%20EFR%20Course)
 
 {{< image-row images="img/our-diving/EFR1.png,img/our-diving/EFR2.png" paddingTop="10px" >}}
 
@@ -155,7 +133,7 @@ If you would like to book an Open Water course, please Contact Us
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book a rescue diver course, please [Contact Us](/contact?message=Enquiry%20about%20Rescue%20Diver%20Course)
 
 {{< image-row images="img/our-diving/RD1.png,img/our-diving/RD2.png" paddingTop="10px" >}}
 
@@ -165,7 +143,7 @@ If you would like to book an Open Water course, please Contact Us
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book a night dive, please [Contact Us](/contact?message=Enquiry%20about%20Night%20Dive)
 
 {{< image-row images="img/our-diving/ND1.png,img/our-diving/ND2.png" paddingTop="10px" >}}
 
@@ -175,17 +153,17 @@ If you would like to book an Open Water course, please Contact Us
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book a dive master course, please [Contact Us](/contact?message=Enquiry%20about%20Dive%20Master%20Course)
 
 {{< image-row images="img/our-diving/DM1.png,img/our-diving/DM2.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### Enrixed Air (Nitrox)
+#### Enriched Air (Nitrox)
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please [Contact Us] (/contact)
+If you would like to book an enriched air course, please [Contact Us](/contact?message=Enquiry%20about%20Enriched%20Air%20Course)
 
 {{< image-row images="img/our-diving/EAN1.png,img/our-diving/EAN2.png" paddingTop="10px" >}}
 
@@ -195,17 +173,17 @@ If you would like to book an Open Water course, please [Contact Us] (/contact)
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book a refresh course, please [Contact Us](/contact?message=Enquiry%20about%20Refresh%20Course)
 
 {{< image-row images="img/our-diving/RA1.png,img/our-diving/RA2.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### Equipment Service-Maintainance
+#### Equipment Service/Maintenance
 
 [See Our Prices](/our-diving/our-prices)
 
-If you would like to book an Open Water course, please Contact Us
+If you would like to book an equipment service course, please [Contact Us](/contact?message=Enquiry%20about%20Equipment%20Service%20Course)
 
 {{< image-row images="img/our-diving/ESM1.png,img/our-diving/ESM2.png" paddingTop="10px" >}}
 
