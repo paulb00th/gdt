@@ -21,7 +21,8 @@ As you might expect, here in the Galapagos, there’s a huge number of places to
 ##### Pinzon & La Fe beach
 ##### Santa Fe & Playa Escondida
  <br/></B>
-### TOURS - Multiday land- & water-based excursions
+
+### TOURS - Multiday land & water-based excursions
 
 Besides day trips, you can undertake longer excursions while in the islands, allowing you to get more out of your time in the archipelago. Typical of these are 4-, 5- and 8-day adventures with titles such as ‘Discover the best of Galapagos’. These types of experience can be styled to suit almost any budget.
 
