@@ -1,19 +1,24 @@
 +++
 +++
 
-### ACCOMODATION & TRAVEL INJFORMATION
+### LOCAL ACCOMODATION & TRAVEL
 
-{{< figure src="-" class="align-right full-width-on-small" >}}
+{{< figure src="img/accom-travel/AccTrav1.png" class="align-right full-width">}}
 
 <span class="strapline">Let us help you...</span>
  
-We know our local accommodation and transport providers.  
+We're islanders, lifelong residents here, and we have the best connections to those who arrange and offer transport and accommodation.  If you're visiting the Galapagos, let us help you organise your perfect stay!
 
-Whether you are looking for xxx
+Whether you need low-cost options for moving about on land or water, a private vessel, a hire car, budget accommodation, or a fabulous private villa, just let us know!  The Galapagos is our 'back yard', so take advantage of our specialist knowledge...
 
-**[Contact Us]
+We have assisted people from all over the world with their trips here, often on multiple occasions, as they return year after year. 
 
-*Set out below are some images showing our public buses, water taxis, and cabs (inevitablly, a white pick-up truck).*
+So, why not take a leaf out of their play book and let us help you with the travel and accommodation challenges associated with any 'remote' trip. 
 
+-
 
-{{< image-row images="-" >}}
+For help with all your travel and accommodation issues, Contact Us
+
+{{< image-row images="img/accom-travel/Accom1.png,img/accom-travel/Accom2.png" paddingTop="10px" >}}
+
+{{< image-row images="img/accom-travel/Travel1.png,img/accom-travel/Travel2.png" paddingTop="10px" >}}

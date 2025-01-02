@@ -1,87 +1,33 @@
 +++
 +++
 
-### TOURS - Land & water-based day-trips
+### TOURS – Land- & water-based day excursions
 
-{{< figure src="-" >}}
- 
-<span class="strapline">The experience of a lifetime!</span>
 
-Coming soon
+  <Br></B>
+<span class="strapline">Enhancing the experience of a lifetime!</span>
 
-**Interested? Then [Contact Us]
+As you might expect, here in the Galapagos, there’s a huge number of places to go, things to do and people to see. Many of the activities on offer are paid day excursions that require you to be accompanied by a qualified land guide. . Set out below we list some of the most popular sites on offer. 
 
+For further information about these tours or to book a place, Contact Us 
  <Br></B>
 ##### Bartolome Island
-Coming soon
 ##### Floreana Island
-Coming soon
 ##### Highlands of Santa Cruz
-Coming soon
-##### North Seymour Island
-Coming soon 
-##### Santa Fe Island
-Coming soon  
+##### North Seymour Island 
+##### Santa Fe Island 
 ##### Plazas Island
-Coming soon  
 ##### Pinzon & La Fe beach
-Coming soon
 ##### Santa Fe & Playa Escondida
-Coming soon
+ <Br></B>
+### TOURS - Multiday land- & water-based excursions
 
-{{< image-row images="-" >}}
+Besides day trips, you can undertake longer excursions while in the islands, allowing you to get more out of your time in the archipelago. Typical of these are 4-, 5- and 8-day adventures with titles such as ‘Discover the best of Galapagos’. These types of experience can be styled to suit almost any budget.
 
-### TOURS - Multiday land & water based tours
+If you’re planning on undertaking such an activity while in the islands, why not let us help you? 
 
-{{< figure src="-" >}}
+As we’ve noted in several locations throughout this website, we’re the locals and we are by far the best placed people to assist with the organisation of a perfect stay!
 
-<span class="strapline">Longer tours!</span>
+Whether your budget, take advantage of our specialist knowledge – just, Contact Us
 
-Coming soon
- 
-##### Discover the best of Galapagos - 8 Days / 7 Nights.
 
-Coming soon
-
-##### Day 1
-Coming soon
-
-##### Day 2
-AComing soon
-
-##### Day 3
-Coming soon
-
-##### Day 4
-Coming soon
-
-##### Day 5
-Coming soon
-
-##### Day 6
-Coming soon
-
-##### Day 7
-Coming soon
-
-##### Day 8
-Coming soon
-
-##### Notes:
-
-The above package can be styled to suit every budget
-
-**This example tour includes:**
-Coming soon
- 
-**This example tour excludes:**
-Coming soon
-
-{{< 
-image-row 
-images="-"
-paddingTop="10px"
->}}
-
-##### Day-tours verses multi-day activities?
-Coming soon 

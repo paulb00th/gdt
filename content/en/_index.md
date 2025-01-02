@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-{{< figure src="img/home_page/GDT-Banner-04.png">}}
+{{< figure src="img/home_page/GDT-Banner-HP.png">}}
 
 <p>&nbsp</p>
 
@@ -29,3 +29,5 @@ Whether you’re new to diving or already qualified, our commitment to continuin
 {{< image-row images="img/home_page/HP-image-03.png,img/home_page/HP-image-04.png" paddingTop="10px" >}}
 
 {{< image-row images="img/home_page/HP-image-05.png,img/home_page/HP-image-06.png" paddingTop="10px" >}}
+
+{{< image-row images="img/home_page/HP-image-07.png,img/home_page/HP-image-08.png" paddingTop="10px" >}}

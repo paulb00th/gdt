@@ -25,10 +25,10 @@ All reservations are subject to confirmation, until receipt of full payment for 
 The confirmation of hotels is subject to availability, if your specified hotel is not available for any reason, you will be provided with another in a similar category and price band. 
 Payment for our services can only be made as set out in, ‘Payment Methods’ below.  Once a tour package booking is confirmed with a customer by e-mail, via a service voucher, the tour or package is guaranteed, unless cancellation arises due to the reasons set out above, under the category of responsibilities which are unrelated to Galapagos Dive Training.
 
-5. **Payment Policy**
+5. **Payment Policy and methods**
 All our direct supply tours / packages must be paid for, in full, 30 days prior to commencement, unless otherwise arranged with Galapagos Dive Training.
 If booking third party services with us, please note that some companies require payment a full 60 days prior to commencement.  You will be notified of such terms during the reservation process.
-Payment Methods:
+**Payment Methods:**
 Bank deposit/Transfer, this incurs a $50 fee.
 Western Union or Money Gram transfer.
 VISA / MASTERCARD credit or debit card payment via online system, this incurs a + 6% fee.
