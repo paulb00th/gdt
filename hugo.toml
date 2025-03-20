@@ -41,7 +41,7 @@ canonifyURLs = true
 
 logo = "img/gdt-logo.png"
 logo_small = "img/gdt-logo-small.png"
-about_us = "<p>Galápagos Dive Training & Conservation<br/>Juan León Mere y San Cristóbal (atrás de la Guardería Pingüinitos)<br/>Santa Cruz 200350, Puerto Ayora, Ecuador</p>"
+about_us = "<p>Galápagos Dive Training & Conservation<br/>Juan León Mera y San Cristóbal (atrás de la Guardería Pingüinitos)<br/>Santa Cruz 200350, Puerto Ayora, Ecuador</p>"
 
 formspree_action = "https://formspree.io/f/xbljlyeg"
 contact_form_ajax = false
